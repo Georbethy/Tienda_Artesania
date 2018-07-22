@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "plantilla", "plantilla\", "{E3DAE9C6-9C9A-4ABD-8C62-C3B45AE42B14}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65273"
+		Debug.AspNetCompiler.PhysicalPath = "plantilla\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65273\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65273"
+		Release.AspNetCompiler.PhysicalPath = "plantilla\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65273\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65273"
+		SlnRelativePath = "plantilla\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artesanias", "Artesanias\Artesanias.csproj", "{66CC72DC-CF4D-4647-8E21-00E0D600A428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3DAE9C6-9C9A-4ABD-8C62-C3B45AE42B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DAE9C6-9C9A-4ABD-8C62-C3B45AE42B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DAE9C6-9C9A-4ABD-8C62-C3B45AE42B14}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DAE9C6-9C9A-4ABD-8C62-C3B45AE42B14}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{66CC72DC-CF4D-4647-8E21-00E0D600A428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CC72DC-CF4D-4647-8E21-00E0D600A428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CC72DC-CF4D-4647-8E21-00E0D600A428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CC72DC-CF4D-4647-8E21-00E0D600A428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD837C7F-3D2A-4E43-BC66-76883BF2E488}
+	EndGlobalSection
+EndGlobal
