@@ -27,12 +27,13 @@ namespace Artesanias.Controllers
             return View();
         }
 
-        public ActionResult Nosotros()
+        public ActionResult Mens()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "pagina de mens";
 
             return View();
         }
+       
         
     }
 
